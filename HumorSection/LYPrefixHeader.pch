@@ -1,0 +1,19 @@
+//
+//  LYPrefixHeader.pch
+//  HumorSection
+//
+//  Created by 洋洋 on 16/8/2.
+//  Copyright © 2016年 Jack_yy. All rights reserved.
+//
+
+#ifndef LYPrefixHeader_pch
+#define LYPrefixHeader_pch
+#define LYSCREEN_WIDTH [[UIScreen mainScreen] bounds].size.width
+#define LYSCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+//#define RandomColor [UIColor colorWithRed:arc4random_uniform(256)/255.0 green:arc4random_uniform(256)/255.0 blue:arc4random_uniform(256)/255.0 alpha:1.0]
+#ifdef  __DBJC__
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* LYPrefixHeader_pch */
+#endif

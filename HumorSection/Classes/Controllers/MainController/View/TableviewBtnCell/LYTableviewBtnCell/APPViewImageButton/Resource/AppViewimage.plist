@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>tag</key>
+		<integer>10</integer>
+		<key>imgBtn</key>
+		<string>排行榜64x64</string>
+		<key>title</key>
+		<string>每日排行榜</string>
+	</dict>
+	<dict>
+		<key>tag</key>
+		<integer>11</integer>
+		<key>imgBtn</key>
+		<string>神64x64</string>
+		<key>title</key>
+		<string>神回复</string>
+	</dict>
+	<dict>
+		<key>tag</key>
+		<integer>12</integer>
+		<key>imgBtn</key>
+		<string>密64x64</string>
+		<key>title</key>
+		<string>秘密</string>
+	</dict>
+	<dict>
+		<key>tag</key>
+		<integer>13</integer>
+		<key>imgBtn</key>
+		<string>GIF图64x64</string>
+		<key>title</key>
+		<string>GIF图</string>
+	</dict>
+	<dict>
+		<key>tag</key>
+		<integer>14</integer>
+		<key>imgBtn</key>
+		<string>宠物64x64</string>
+		<key>title</key>
+		<string>萌宠联盟</string>
+	</dict>
+	<dict>
+		<key>tag</key>
+		<string>15</string>
+		<key>imgBtn</key>
+		<string>笑话64x64</string>
+		<key>title</key>
+		<string>冷笑话</string>
+	</dict>
+</array>
+</plist>

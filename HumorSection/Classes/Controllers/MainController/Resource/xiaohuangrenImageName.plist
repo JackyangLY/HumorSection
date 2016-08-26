@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>精选</string>
+		<key>icon</key>
+		<string>meirijingxuan</string>
+		<key>iconHeight</key>
+		<string>meirijingxuan_red</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>视频</string>
+		<key>icon</key>
+		<string>shipin</string>
+		<key>iconHeight</key>
+		<string>shipin_blue</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>段子</string>
+		<key>icon</key>
+		<string>duanzi</string>
+		<key>iconHeight</key>
+		<string>duanzi_org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>个人</string>
+		<key>icon</key>
+		<string>gerenzhongxin</string>
+		<key>iconHeight</key>
+		<string>gerenzhongxin_green</string>
+	</dict>
+</array>
+</plist>
